@@ -2,9 +2,11 @@
 A mobile game with React Native, JavaScript, and TypeScript.
 This is a game where the user enters in a number. The goal is for the opponent to guess the entered number.
 
-
-Demo Game
-https://github.com/akohli05/Dice-Game/assets/129328516/aa9ae7d0-a13e-4180-936b-c557f5971c8a
+### Demo Game
+ <video width="320" height="240" controls>
+  <source src="https://github.com/akohli05/Dice-Game/assets/129328516/aa9ae7d0-a13e-4180-936b-c557f5971c8a" type="video/mp4">
+  https://github.com/akohli05/Dice-Game/assets/129328516/aa9ae7d0-a13e-4180-936b-c557f5971c8a
+</video> 
 
 Sample Images
 1. Enter a number
